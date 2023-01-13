@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pedro Henrique 
-- 👀 I’m interested in Web Development, Automatation and IA 
+- 👀 I’m interested in Web Development, Automation and IA 
 - 🌱 I’m currently learning React with Typs and css 
 - 📫 How to reach me : send me a email pedro_freires18@outlook.com
 
